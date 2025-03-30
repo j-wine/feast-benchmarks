@@ -7,11 +7,11 @@ _Tested with: `feast 0.37.1`_
 ## Prerequisites
 
 You need to have the following installed:
-* Python `3.9+`
-* Feast `0.37.0+`
+* Python `3.10+`
+* Feast `0.47.0+`
 * Docker
 * Docker Compose `v2.x`
-* Vegeta
+* Vegeta `<=12.11.1` 
 * `parquet-tools`
 
 
